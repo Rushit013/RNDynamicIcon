@@ -1,0 +1,130 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+      android:name=".MainApplication"
+      android:label="@string/app_name"
+      android:icon="@mipmap/logo_1"
+      android:roundIcon="@mipmap/logo_1"
+      android:allowBackup="false"
+      android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" android:label="@string/app_name"
+      android:icon="@mipmap/logo_1"
+      android:roundIcon="@mipmap/logo_1"
+      android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+      android:launchMode="singleTask"
+      android:screenOrientation="portrait"
+      android:windowSoftInputMode="adjustResize"
+      android:exported="true"/>
+
+          <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_1"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_1"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+      <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_2"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_2"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_3"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_3"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_4"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_4"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_5"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_5"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_6"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_6"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_7"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_7"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_8"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_8"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+        <activity-alias
+        android:name="com.rndynamicicon.MainActivitylogo_9"
+        android:enabled="false"
+        android:exported="true"
+        android:icon="@mipmap/logo_9"
+        android:targetActivity=".MainActivity">
+        <intent-filter>
+          <action android:name="android.intent.action.MAIN" />
+          <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity-alias>
+
+    </application>
+</manifest>
