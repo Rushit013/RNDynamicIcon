@@ -2,7 +2,7 @@
 
 ## About
 
-This project was created for the tutorial [Dynamically change app launcher icon in React Native](https://medium.com/@rushitjivani1999/dynamically-change-app-launcher-icon-in-react-native-eb695b1b3ab4). This doesn't include the explanation of the project and how it should be configured. To see the complete solution, you can go to [this git repository](https://github.com/Rushit013/RNDynamicIcon.git).
+This project was created for the tutorial [Dynamically change app launcher icon in React Native](https://medium.com/@rushitjivani/dynamically-change-app-launcher-icon-in-react-native-eb695b1b3ab4). This doesn't include the explanation of the project and how it should be configured. To see the complete solution, you can go to [this git repository](https://github.com/Rushit013/RNDynamicIcon.git).
 
 ## Quick start
 
