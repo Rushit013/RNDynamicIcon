@@ -14,3 +14,7 @@ You can start by cloning this repository
 - Run `npm run ios` or `npm run android` to start your application!
 
 (Using yarn: `yarn ios` or `yarn android`)
+
+## Output
+
+![Imgur](https://miro.medium.com/v2/resize:fit:640/1*VMNVrGX2g8vyP5JKNhXJ-g.gif)
